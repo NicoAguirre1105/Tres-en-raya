@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tres-en-raya/static/css/main.5b935eee.css",
+    "main.js": "/Tres-en-raya/static/js/main.b66ab4d6.js",
+    "index.html": "/Tres-en-raya/index.html",
+    "main.5b935eee.css.map": "/Tres-en-raya/static/css/main.5b935eee.css.map",
+    "main.b66ab4d6.js.map": "/Tres-en-raya/static/js/main.b66ab4d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b935eee.css",
+    "static/js/main.b66ab4d6.js"
+  ]
+}
